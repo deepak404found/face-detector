@@ -3,6 +3,8 @@ import cv2
 faceCascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 video_capture = cv2.VideoCapture(0)
+video_capture.set(3,640) # set Width
+video_capture.set(4,480) # set Height
 
 while True:
     # Capture frame-by-frame
