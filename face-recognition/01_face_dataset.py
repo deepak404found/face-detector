@@ -7,6 +7,8 @@ Based on original code by Anirban Kar: https://github.com/thecodacus/Face-Recogn
 
 Developed by Marcelo Rovai - MJRoBot.org @ 21Feb18    
 
+edited by: deepak404found - team-newklio @ 27/05/2022
+
 '''
 
 import cv2
